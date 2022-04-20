@@ -1,1 +1,1 @@
-web: python -m binance_trade_bot
+web: python3 -m binance_trade_bot
